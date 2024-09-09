@@ -178,6 +178,7 @@ npx degit 'timlrx/tailwind-nextjs-starter-blog'
 
 ## Installation
 
+!!!!USE Powershell!!!!
 ```bash
 yarn
 ```
@@ -185,6 +186,7 @@ yarn
 Please note, that if you are using Windows, you may need to run:
 
 ```bash
+
 $env:PWD = $(Get-Location).Path
 ```
 
